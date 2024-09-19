@@ -1,6 +1,6 @@
 # Webgis Ponorogo Main
 
-Websute GIS dengan geolocation dan leaflet routing machine dengan admin stisla bootsrap 5
+Website GIS dengan geolocation dan leaflet routing machine dengan admin stisla bootsrap 5
 
 ## Installation Guide
 
